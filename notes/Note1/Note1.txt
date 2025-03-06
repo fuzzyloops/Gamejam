@@ -1,0 +1,12 @@
+A game where the player must fend off monsters while watering flowers
+
+you are on a strict time limit
+time is replenished by watering the flowers
+enemies damage the flowers and lower the time
+
+||||||||Time limit: 30|||||||
+|||||o_o||||||||||||||>:(||||
+||||||||||||||||8||||||||||||
+|||||||||||8||||||||||>:(||||
+||||||||||||||8||||||||||||||
+|||||||||||||||||||||||||||||
