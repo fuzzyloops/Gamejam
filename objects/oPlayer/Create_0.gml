@@ -4,3 +4,5 @@ spdMultiplier = 0.707;
 
 hspd = 0;
 vspd = 0;
+
+tool = 0;

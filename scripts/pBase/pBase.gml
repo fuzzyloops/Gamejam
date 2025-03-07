@@ -1,0 +1,4 @@
+function pBase(){
+	pMovement();
+	pTool();
+}
