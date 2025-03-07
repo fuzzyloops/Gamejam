@@ -1,4 +1,4 @@
-timePlayed = 100;
+timePlayed = 0;
 
 maxSpawnDelay = 200;
 spawnDelay = maxSpawnDelay;
