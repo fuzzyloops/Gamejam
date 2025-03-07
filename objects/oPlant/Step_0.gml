@@ -14,11 +14,13 @@ if(stageClock < stageSpeed)
 else if(stage < 3)
 {
 	stage++;	
+	audio_play_sound(sndPlantGrow,1,0,1,0,random_range(0.8,1));
 	stageClock = 0;
 }
 else if(stage >= 3)
 {
 	instance_create_layer(x,y,"Harvest",crop);
+	audio_play_sound(sndPlantGrow,1,0,1,0,random_range(0.8,1));
 	stageClock = 0;
 }
 

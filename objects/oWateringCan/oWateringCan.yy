@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sWateringCan",
-    "path":"sprites/sWateringCan/sWateringCan.yy",
+    "name":"sWateringCanHeld",
+    "path":"sprites/sWateringCanHeld/sWateringCanHeld.yy",
   },
   "spriteMaskId":null,
   "visible":true,

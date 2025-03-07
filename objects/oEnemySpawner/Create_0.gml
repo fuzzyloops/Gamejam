@@ -1,4 +1,4 @@
-timePlayed = 0;
+timePlayed = 100;
 
 maxSpawnDelay = 200;
 spawnDelay = maxSpawnDelay;
@@ -9,5 +9,5 @@ timePlayed = 0;
 
 wait = true;
 
-alarm[0] = random_range(250,300);
+alarm[0] = 150;
 alarm[1] = 60;

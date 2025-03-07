@@ -1,1 +1,4 @@
-pBase();
+if(!global.GAMEOVER)
+{
+	pBase();	
+}
